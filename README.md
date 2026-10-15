@@ -94,25 +94,36 @@ Não é necessário internet. Os dados ficam no próprio aparelho.
 
 ## Como executar
 
+O projeto roda no **Windows** (aula em laboratório) e no **Android** (APK depois).
+
 Na pasta do projeto:
 
 ```bash
 flutter pub get
 ```
 
-No computador, sem celular:
+### Windows (usar em sala)
+
+Ative o **Modo de Desenvolvedor** do Windows uma vez em cada máquina:
+
+1. Abra Configurações → Privacidade e segurança → Para desenvolvedores
+2. Ative **Modo de desenvolvedor**
+
+Ou no terminal:
 
 ```bash
-flutter run -d chrome
+start ms-settings:developers
 ```
 
-No Windows (é preciso ativar o Modo de Desenvolvedor do Windows):
+Depois:
 
 ```bash
 flutter run -d windows
 ```
 
-No celular Android, conecte o aparelho com a depuração USB ativada ou use um emulador:
+### Android (mais adiante)
+
+Com celular na depuração USB ou emulador:
 
 ```bash
 flutter run
@@ -120,7 +131,7 @@ flutter run
 
 ## Como gerar APK
 
-Para instalar em celulares Android:
+Faça isso depois, quando for testar no celular:
 
 ```bash
 flutter build apk
