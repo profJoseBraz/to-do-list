@@ -4,6 +4,8 @@ Aplicativo de lista de tarefas criado em Flutter para uso didático no 1º ano d
 
 O objetivo é construir um primeiro projeto Flutter completo: simples de explicar em sala, com aparência profissional e funcionamento real no celular.
 
+Para montar o app **do zero em sala**, siga o [ROTEIRO.md](ROTEIRO.md): comandos, dependências entre arquivos e ordem de código.
+
 ## Objetivo
 
 Permitir que o aluno:
