@@ -6,6 +6,8 @@ Regra: **quem é importado nasce primeiro**. O `main.dart` pronto é o **último
 
 Este arquivo pode ser aberto em qualquer editor, impresso ou compartilhado pelo GitHub. Não depende do Cursor.
 
+Os termos do código estão no [GLOSSARIO.md](GLOSSARIO.md).
+
 ---
 
 ## 1. Ambiente (cada computador da sala)

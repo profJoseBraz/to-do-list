@@ -6,6 +6,8 @@ O objetivo é construir um primeiro projeto Flutter completo: simples de explica
 
 Para montar o app **do zero em sala**, siga o [ROTEIRO.md](ROTEIRO.md): comandos, dependências entre arquivos e ordem de código.
 
+Os termos do código (`Widget`, `factory`, `dynamic`, `setState`...) estão no [GLOSSARIO.md](GLOSSARIO.md).
+
 ## Objetivo
 
 Permitir que o aluno:
